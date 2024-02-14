@@ -1,0 +1,22 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(161, 18, 27);
+}
+
+#links {
+    margin: 0;
+    padding: 0;
+}
+
+#links li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+.reciepe-link {
+    color: hsl(40, 84%, 40%);
+}
