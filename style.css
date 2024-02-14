@@ -1,10 +1,14 @@
 * {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
+    background-color:rgb(255, 249, 243);
 }
 
 h1 {
     color: rgb(161, 18, 27);
+}
+
+h2 {
+    color:rgb(161, 18, 27)
 }
 
 #links {
