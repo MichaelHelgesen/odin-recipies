@@ -5,6 +5,7 @@
 
 h1 {
     color: rgb(161, 18, 27);
+    margin-bottom: 20px;
 }
 
 h2 {
@@ -19,8 +20,20 @@ h2 {
 #links li {
     list-style: none;
     margin-bottom: 5px;
+    display: inline-block;
+    margin-right: 5px;
 }
 
 .reciepe-link {
-    color: hsl(40, 84%, 40%);
+    color: hsl(40, 80%, 62%);
+    background-color: rgb(161, 18, 27);
+    padding: 10px 16px;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+.homepage-link {
+    display: block;
+    margin-bottom: 20px;
+    color: hsl(40, 52%, 40%);
 }
